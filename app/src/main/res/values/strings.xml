@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewHangMan</string>
+    <string name="win">YOU WIN!! RESTART</string>
+    <string name="lose">YOU LOSE!! RESTART</string>
+    <string name="reset">Reset</string>
+
+    <string name="wait">WAIT!</string>
+</resources>
